@@ -71,10 +71,10 @@
 
 ```bash
 # Clone this repository
-git clone https://github.com/yourusername/waifu-bot
+git clone https://github.com/AkumaHalls/Waifubot-Project
 
 # Navigate to the project directory
-cd waifu-bot
+cd Waifubot-Project
 
 # Install dependencies
 npm install
@@ -97,5 +97,4 @@ MIT
 
 ---
 
-> GitHub [@yourusername](https://github.com/yourusername) &nbsp;&middot;&nbsp;
-> Twitter [@yourusername](https://twitter.com/yourusername)
+> GitHub [@AkumaHalls](https://github.com/AkumaHalls) &nbsp;&middot;&nbsp;
